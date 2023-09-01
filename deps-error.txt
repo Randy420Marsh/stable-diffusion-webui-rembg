@@ -1,0 +1,7 @@
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. 
+This behaviour is the source of the following dependency conflicts.
+rembg 2.0.38 requires asyncer>=0.0.2, which is not installed.
+rembg 2.0.38 requires filetype>=1.2.0, which is not installed.
+rembg 2.0.38 requires imagehash>=4.3.1, which is not installed.
+rembg 2.0.38 requires opencv-python-headless>=4.6.0.66, which is not installed.
+rembg 2.0.38 requires watchdog>=2.1.9, which is not installed.
